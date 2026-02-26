@@ -1,0 +1,7 @@
+This dir contains the scripts to generate a library of neutrino clicks
+It uses an octave script (one_click.m) to generate a 'theoretical' syntheytic neutrino click
+
+The directory has been extended with functions to:
+1. Investigate the frequency dependence & the effect of the hydrophones (frequency_analysis)
+2. Investigate the effect of the source geometry (source_analysis)
+3. Generate rztp maps and other specs on the pulses (pulse_analysis)
