@@ -1,0 +1,12 @@
+Name                           E0 [Hz]      rpos [m]     zpos [m]    
+----------------------------------------------------------------------
+near_field_in_pancake          1.000e+11    100          6           
+mid_field_in_pancake           1.000e+11    1e+03        6           
+far_field_in_pancake           1.000e+11    2.5e+03      6           
+far_field_north                1.000e+11    2.5e+03      -30         
+far_field_south                1.000e+11    2.5e+03      50          
+near_field_north               1.000e+11    100          -30         
+near_field_south               1.000e+11    100          50          
+mid_field_north                1.000e+11    1e+03        -30         
+mid_field_south                1.000e+11    1e+03        50          
+on_axis                        1.000e+11    1            6           
