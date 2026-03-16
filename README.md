@@ -15,6 +15,9 @@ Single jupyter notebook to compare different (complex) acoustic attenuation mode
 ## directionality (python)
 Python code to enhance the directionality of ambient acoustic noise as theoretically modelled by Buckingham (https://pubs.aip.org/asa/jasa/article/134/2/950/950939)
 
+## event_display (python, C++)
+Custom (not optimized) python data class to process JPP results of full acoustic telescope simulation. This package includes event displays and directionality / geometric spread statistics. In the current implementation this software requires a link to JPP, so it should be ran in a JPP-equipped environment.
+
 ## interaction length (python)
 Single jupyter notebook to evaluate interaction lengths at high energies
 
