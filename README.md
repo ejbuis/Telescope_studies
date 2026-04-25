@@ -7,7 +7,7 @@ This repository contains the software developed by Huib Baetsen to aid in the re
 - Fiber hydrophone parameterization
 As well as auxiliary topics such as interaction lengths.
 
-This README will give an overview of each of the main folder, along with their status and the programming language(s) used.
+This README will give an overview of each of the main folder, along with their status and the programming language(s) used. The Pylos Toolkit file included in the main folder is used by multiple other programs.
 
 ## attenuation (python)
 Single jupyter notebook to compare different (complex) acoustic attenuation models
